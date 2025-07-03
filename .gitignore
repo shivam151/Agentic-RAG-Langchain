@@ -1,0 +1,7 @@
+.env
+.agentic_rag
+.imaenv
+__pycache__
+uploads
+backend/controllers/ai/model
+*.db
